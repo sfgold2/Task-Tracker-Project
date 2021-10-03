@@ -5,6 +5,10 @@ A simple task tracker that can be run with a mock REST API using JSON server tha
 # Screenshots
 
 #### Homepage
-<alt="Homepage" src="https://user-images.githubusercontent.com/73331313/135771756-887475a6-20c3-425d-9446-672243e3ef46.png">
+<img width = "508" alt="Homepage" src="https://user-images.githubusercontent.com/73331313/135771756-887475a6-20c3-425d-9446-672243e3ef46.png">
 
-<img width="1668" alt="Garden" src="https://user-images.githubusercontent.com/73331313/135220374-300a2b56-6d82-4031-bafa-9804098296a8.png">
+#### Add Task button
+<img width = "508" alt="Homepage" src="https://user-images.githubusercontent.com/73331313/135771760-52d3dd02-3d8b-4528-b722-f30567c7cde6.png">
+
+#### Updated Homepage
+<img width = "508" alt="Homepage" src="https://user-images.githubusercontent.com/73331313/135771762-93e2492c-d26f-436e-9054-c740da83bee2.png">
