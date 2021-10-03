@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Doctor's appointment",
+      "text": "Doctor's Appointment",
       "day": "10/06/21",
-      "reminder": True
-    },
+      "reminder": true,
+      "id": 1
+    }
   ]
 }
