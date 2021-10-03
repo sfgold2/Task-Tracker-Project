@@ -2,21 +2,9 @@
   "tasks": [
     {
       "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": false
+      "text": "Doctor's appointment",
+      "day": "10/06/21",
+      "reminder": True
     },
-    {
-      "text": "balls",
-      "day": "ass",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "balls",
-      "day": "daci",
-      "reminder": true,
-      "id": 4
-    }
   ]
 }
